@@ -2,28 +2,28 @@
 
 ** przedimek określony, *definite article*, stosujemy zarówno z rzeczownikami w liczbie pojedynczej, jaki mnogiej, policzalnymi oraz niepoliczalnymi
 
-*** [2019-08-01 Thu]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       e6db5839-4528-4e92-8b02-2d41c437ea54
     :END:
 
     [the||the/a/an/_] house
 
-*** [2019-08-01 Thu]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       2cfeeb42-393e-4c01-829d-ea6790f29e58
     :END:
 
     [the||the/a/an/_] rain
 
-*** [2019-08-01 Thu]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       16fe0a72-94b1-4fde-9622-8f6ac15a3559
     :END:
 
     [the||the/a/an/_] houses
 
-*** [2019-08-01 Thu]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       3ac79e2d-f214-4ad4-92e7-50276fa8c14a
     :END:
@@ -32,35 +32,35 @@
 
 ** przed rzeczownikami odnoszącymi się do wcześniej wspomnianych zjawisk
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :properties:
     :id:       4070d191-20c2-4107-8031-a708e2a927c0
     :end:
 
     there's [a] man outside the house.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :properties:
     :id:       7d4bd524-1720-4410-b04e-fdbd9678a9b3
     :end:
 
     [the] man is wearing a black coat.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       014900ce-13c2-4bbd-ab5c-056545c2f332
     :END:
 
     i must go to [the] bank.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       72246940-645c-4b98-9ba6-9ffd86a6e9a1
     :END:
 
     let me help you with [the] bag.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       b8d3aed4-f82c-4f65-8ff1-036ec52f6516
     :END:
@@ -69,21 +69,21 @@
 
 ** przed rzeczownikami, po których występuje przydawka w znaczeniu ograniczającym, zawężającym
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       5d2d86e3-98f5-42dd-8822-87250fb77046
     :END:
 
     [the] girl with a green bag.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       a4551de1-812f-443d-8cb7-765fa11114e0
     :END:
 
     [the] house i live in.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1e196227-1e38-4629-bb03-9fb0486b9b27
     :END:
@@ -92,14 +92,14 @@
 
 ** przed rzeczownikami oznaczającymi jakąś grupę, gatunek
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1f6f70c4-9db1-4177-b9f3-83282d581b35
     :END:
 
     [the] panda is an endangered species.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       2c1305a7-6198-485d-9c3a-449bb84635c1
     :END:
@@ -108,21 +108,21 @@
 
 ** przed przymiotnikami w stopniu najwyższym
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       bd0b4b36-1de4-436d-b2e1-5871951bbb96
     :END:
 
     [the] nicest girl.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       a245c505-70a2-4b31-9e56-9b2a211ee4fa
     :END:
 
     [the] most expansive car.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       34681dd7-6ee8-4c35-b99d-5814d21f7ac0
     :END:
@@ -131,7 +131,7 @@
 
 ** przed liczebnikami porządkowymi, oraz przed /only/ w znaczeniu /jedyny/
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :DRILL_CARD_TYPE: hide1cloze
     :ID:       59f3da3a-d056-470d-8e31-6291c9514b0c
@@ -139,7 +139,7 @@
 
     [the] first man on [the] moon.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :DRILL_CARD_TYPE: hide1cloze
     :ID:       08795e80-eb00-4c1a-9f1c-c69ea49f5555
@@ -147,7 +147,7 @@
 
     [the] fourth person [on] [the] list.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       e34c0749-674a-45c7-a26f-bfda1ae0fd23
     :END:
@@ -156,35 +156,35 @@
 
 ** przedimka /the/ używamy zawsze przed przymiotnikami określającymi grupę ludzi oraz narodowości
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       a22319ec-3a7e-4a20-84da-52b823e7d1cb
     :END:
 
     [the||the/a/an/_] rich.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       0c91d6a1-a013-4104-a144-a23d94c40bed
     :END:
 
     [the||the/a/an/_] French.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       e0319f49-9899-43f9-9dfb-4a4ef414e360
     :END:
 
     [the||the/a/an/_] Democrats
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       654dad80-dce5-40bd-8362-337a26dd9fc2
     :END:
 
     [the||the/a/an/_] unemployed
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       9d7b54c7-f810-4e3f-826f-bccac9b6b141
     :END:
@@ -193,77 +193,77 @@
 
 ** przedimka /the/ używamy zawsze przed nazwami geograficznymi
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       e9d9baaa-59ac-439b-98b9-15ef0b4b0e94
     :END:
 
     [the||the/a/an/_] Baltic Sea
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1c9a24aa-7657-4b91-a721-900e3e3b89f6
     :END:
 
     [the||the/a/an/_] Mediterranean
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       ffee9507-6b3b-4ff9-9a5c-ed85455c55c5
     :END:
 
     [the||the/a/an/_] Pacific Ocean
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1081917b-26d6-44d5-a568-2653ac188271
     :END:
 
     [the||the/a/an/_] Atlantic Ocean
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       e76eccfa-8420-4fd0-9919-8fd481e31e39
     :END:
 
     [the||the/a/an/_] Thames
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       39de2657-985e-470c-944c-fb087b0a3240
     :END:
 
     [the||the/a/an/_] Danube
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       756fa1b3-b774-4263-af54-23c3dba112d9
     :END:
 
     [the||the/a/an/_] Vistula
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       dad9db09-575f-4359-9767-80c5e94fa127
     :END:
 
     [the||the/a/an/_] Himalayas
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1bd54501-aeb8-4d6b-8bf2-87616c2775d9
     :END:
 
-   [the||the/a/an/_] Alps
+    [the||the/a/an/_] Alps
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       9c073c6b-d378-4ef7-a285-0b898ae33426
     :END:
 
-   [the||the/a/an/_] Sahara
+    [the||the/a/an/_] Sahara
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       3f9725b4-97be-4493-ac42-5d22ccab03c2
     :END:
@@ -272,28 +272,28 @@
 
 ** nazwy krajów lub grup wysp występujących w liczbie mnogiej
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       20f09a47-72ef-4a50-9115-9d738e1b669a
     :END:
 
     [the||the/a/an/_] Netherlands
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       09bece7a-eb58-48ab-aac1-58bf61fd5f3d
     :END:
 
     [the||the/a/an/_] Bahamas
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1b9bb1a6-c504-4a50-afa2-ecb6f9e204f6
     :END:
 
     [the||the/a/an/_] Canaries
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       9329ef1e-3903-4852-8295-715c705d2284
     :END:
@@ -302,28 +302,28 @@
 
 ** nazwy geograficzne, w których występuje /of/, przymiotnik, lub wyrażenie takie jak /republika/, /królestwo/
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1def3941-bff6-4ca3-a932-d570a0cacdaa
     :END:
 
     [the||the/a/an/_] United States of America
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1c45118b-3e39-445b-92e9-0bff5e271afb
     :END:
 
     [the||the/a/an/_] United Kingdom
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       c865e5fc-6e98-47bf-a4bc-c03f39c46c54
     :END:
 
     [the||the/a/an/_] Czech Republic
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       bdcf1097-1260-41ac-982d-c9f288c903f9
     :END:
@@ -332,14 +332,14 @@
 
 ** nazwy geograficzne zawierające /north/, /south/ etc.
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       33d4d4f4-4168-4cb7-a004-798ade9ae077
     :END:
 
     [the||the/a/an/_] North Pole
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       95032217-3317-4921-8b31-77c20df575df
     :END:
@@ -348,63 +348,63 @@
 
 ** nazwy geograficzne, w których /north/, /south/, /east/, /west/ funkcjonują jako rzeczownik
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       86d3a24c-d9f3-49ea-b215-430c24f1b3eb
     :END:
 
     [the||the/a/an/_] Middle East
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       9421d466-1716-4c09-9119-bc7cdf135189
     :END:
 
     [the||the/a/an/_] west of Poland
 
-*** [2019-07-28 Sun]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       74753c81-7fe9-4f89-9fe4-34bdcf27774e
     :END:
 
     [the||the/a/an/_] West
 ** przed nazwami instytucji, budynków publicznych, hoteli, kin, teatrów etc.
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       c97a69fb-30d9-4f02-97d4-3401e194e4a9
     :END:
 
     [the||the/a/an/_] Hilton
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       5ef8ada3-1c11-458a-9c23-7ebc81127491
     :END:
 
     [the||the/a/an/_] Globe
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       df867a0f-a7ec-4687-8927-1180c7f7899b
     :END:
 
     [the||the/a/an/_] British Museum
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       58506511-f9d0-4557-af78-e2502bdfb9ac
     :END:
 
     [the||the/a/an/_] White House
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       221a8abd-e002-44ed-9e5d-6cd310364ff7
     :END:
 
     [the||the/a/an/_] Smithsonian Institution
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       49906945-4c84-4986-a7c5-3c794e77f814
     :END:
@@ -413,21 +413,21 @@
 
 ** przed nazwami dzienników
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       d43a2244-d4f3-4e9a-93b5-42849d4abe65
     :END:
 
     [the||the/a/an/_] Warsaw Voice
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       b9ca3f6b-b3b8-4ff3-ada1-efb0eb42995b
     :END:
 
     [the||the/a/an/_] Los Angeles Times
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       8f2be7e4-d7a2-4a74-9770-b04b86613015
     :END:
@@ -436,34 +436,34 @@
 
 ** przed nazwami sławnych osób
 
-*** [2019-07-29 Mon]
+*** przedimek
 
     I saw Brad Pitt while I was in Paris on holiday. really? [The] Brad Pitt?
 
 ** przed przymiotnikami, zjawiskami unikalnymi, jednostkowymi
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       fa3422f0-8a79-4a49-b7ba-3bab66b34786
     :END:
 
     [the||the/a/an/_] sun
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       e27650db-4c5c-4571-b4a9-061861f415dc
     :END:
 
     [the||the/a/an/_] moon
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       5aa50a85-891d-465e-a561-d55a66a0cdc2
     :END:
 
     [the||the/a/an/_] Bible
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       2fc6c3d0-4e39-44a8-ac73-15b4d642378a
     :END:
@@ -472,14 +472,14 @@
 
 ** przed nazwami instrumentów muzycznych
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       3572d354-1786-4eb8-bc45-073dccc6bc86
     :END:
 
     [the||the/a/an/_] violin is my favourite instrument
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       d5ef70d1-aac4-455e-89a5-a146fb7e6e49
     :END:
@@ -488,117 +488,117 @@
 
 ** w wyrażeniach takich jak
 
-*** [2019-07-29 Mon]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       9076829d-3471-42b0-884a-8c3c9593ed7a
     :END:
 
     in [the||the/a/an/_] night
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       2a174e01-f3de-4ab8-b99c-9005475ef79b
     :END:
 
     in [the||the/a/an/_] week
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       c20630c2-56a1-4331-bcdf-ec2ae4eeeec5
     :END:
 
     on [the||the/a/an/_] radio
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       b91e8f8c-5452-48e1-8f0d-6297100f27ca
     :END:
 
     in [the||the/a/an/_] middle
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       32b6c775-757f-42b9-82cb-d83bf8bb3a26
     :END:
 
     at [the||the/a/an/_] beginning
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       4dd01af6-450c-40ff-83cc-d80684142dbe
     :END:
 
     in [the||the/a/an/_] sky
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       d12d330a-342d-4872-aec2-8fd2486ffc47
     :END:
 
     in [the||the/a/an/_] city centre
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       dfbf473d-a451-4db3-963d-8dddf8ef55bf
     :END:
 
     in [the||the/a/an/_] cinema
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       7a7e2a6e-1bb5-4193-af85-6390fd3f6ff5
     :END:
 
     [the] same shirt as yesterday
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1420dcd9-b160-49e9-83b7-cb7fdd05bdb0
     :END:
 
     [the] sonner the better
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       43387c86-8483-48ef-a99d-2ec04fcd56a8
     :END:
 
     in [the||the/a/an/_] morning
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       e145136f-569b-46fa-a0eb-086f15bbec92
     :END:
 
     during [the||the/a/an/_] week
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       c66f6409-b303-49b1-bf77-e120cc4df595
     :END:
 
     on [the||the/a/an/_] phone
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       4d92cd9a-f86b-41de-a3c9-a216e4ffa90e
     :END:
 
     to [the||the/a/an/_] theatre
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       133b0230-f150-4d3a-bc29-98689f5b6c84
     :END:
 
     at [the||the/a/an/_] end
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       a7430715-3e87-4145-ab07-a597ddc6df63
     :END:
 
     in [the||the/a/an/_] army
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       87b175e6-c073-4599-b6ad-679060bbb4a2
     :END:
@@ -609,56 +609,56 @@
 
 ** przedimek nieokreślony *a*, *indefinite article*, stosowany jest przed rzeczownikami w liczbie pojedynczej zaczynającymi się od spółgłoski (lub samogłoski wymawianej jako spółgłoska)
 
-*** [2019-07-31 Wed]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       93e68c83-6283-423d-bdf6-744aa16f7199
     :END:
 
     [a||the/a/an/_] desk
 
-*** [2019-08-01 Thu]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       ca3008be-3a93-4372-be7b-f00480e872fa
     :END:
 
     [a||the/a/an/_] dog
 
-*** [2019-08-01 Thu]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       d0fefd53-c9aa-471f-a7fc-be09866e992c
     :END:
 
     [a||the/a/an/_] ticket
 
-*** [2019-08-01 Thu]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1786c4e5-60c9-41c1-b24a-2047a59efedf
     :END:
 
     [a||the/a/an/_] hospital
 
-*** [2019-08-01 Thu]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       e2cb96ab-32b5-4e66-803f-fe3eb6ba5658
     :END:
 
     [a||the/a/an/_] window
 
-*** [2019-08-01 Thu]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       b9548086-831e-4588-bc24-0a42864c821f
     :END:
 
     [a||the/a/an/_] bag
 
-*** [2019-08-01 Thu]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       22d56c6d-2e1c-4ca1-860e-a02996837b8e
     :END:
 
     [a||the/a/an/_] flower
 
-*** [2019-08-01 Thu]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       f1ce8ffb-bc38-4848-a3ec-b31ee8c24357
     :END:
@@ -667,42 +667,42 @@
 
 ** przed rzeczownikami zaczynającymi się od samogłoski oraz od niemego "h" użyjemy przedimka /an/
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       9e54fad8-7def-4baf-bb13-bd721a9e9ee1
     :END:
 
     [an||the/a/an] egg
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       69aeb930-d27c-4f85-92b2-fbf11611ac01
     :END:
 
     [a||the/a/an/_] airport
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       dec949b6-c3c8-4089-93c2-ff779ede6e6e
     :END:
 
     [a||the/a/an/_] honour
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       22fe79f5-1667-43ee-a7a4-790024137709
     :END:
 
     [a||the/a/an/_] apple
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       422da040-00ed-4cdf-aec3-e72c41c1ea81
     :END:
 
     [a||the/a/an/_] hour
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       16b7301c-90dd-4149-bfa7-82b48cf62f6c
     :END:
@@ -711,18 +711,18 @@
 
 ** przed rzeczownikiem, który jest wspomniany po raz pierwszy i nie wskazuje na żaden konkretny określony obiekt
 
-*** [2019-08-02 Fri]
+*** przedimek
 
     this is [a||the/a/an/_] book
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       84bfb9ad-9bd8-4f86-bb77-32fdee357e70
     :END:
 
     i don't have [a||the/a/an/_] car
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       27e40507-661e-41dc-a558-dcdb6fc094ff
     :END:
@@ -731,28 +731,28 @@
 
 ** przed rzeczownikiem odnoszącym się do reprezentanta pewnej grupy zjawisk, zwierząt czy przedmiotów
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       161360eb-fce4-40e8-8c45-4e89e44971b9
     :END:
 
     a whale is [a||the/a/an/_] mammal
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       f0fef566-190b-475b-bc21-c930ca730ea0
     :END:
 
     volleyball is [a||the/a/an/_] team sport
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       f597e164-f587-484e-a46a-c829927947c1
     :END:
 
     jupiter is [a||the/a/an/_] planet
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       56375152-a636-417b-bf32-a3ba8bd3fe96
     :END:
@@ -761,21 +761,21 @@
 
 ** z rzeczownikami odnoszącymi się do ilości, ciężaru, czasu, w znaczeniu /jeden/
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       83660417-2931-4c0c-ae81-d26cbfbb8c0c
     :END:
 
     [a||the/a/an/_] kilo of strawberries
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       c66b6b1b-50a9-48b9-bc8d-cc3dcb6f62ac
     :END:
 
     [a||the/a/an/_] thousand pounds
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       9b4c520b-8903-4d49-be43-13cd09d87987
     :END:
@@ -784,21 +784,21 @@
 
 ** przed rzeczownikami poprzedzonmi przymiotnikiem
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       c80e4c17-efc5-4183-94f4-21cd1bd96997
     :END:
 
     marry has [a||the/a/an/_] beautiful dress
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       212393f3-f29d-4c1c-a47d-27290c222f58
     :END:
 
     there is [a||the/a/an/_] intresting programme on tv tonight
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       3994a682-1817-4db5-91ec-9288e78e66e8
     :END:
@@ -807,28 +807,28 @@
 
 ** przedimka nieokreślonego nigdy nie użyjemy z rzeczownikami w liczbie mnogiej
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       5a9c1000-cfbe-498f-a266-c44d547a633c
     :END:
 
     [_||the/a/an/_] bags
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       9f311bda-694e-4ffc-956b-1bcc4e344c93
     :END:
 
     [_||the/a/an/_] tickets
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       f75306df-21a7-4883-bf70-99175cc25796
     :END:
 
     [_||the/a/an/_] tickets
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       4c2aa7c5-b390-435d-84ad-b2266edf0b8c
     :END:
@@ -837,21 +837,21 @@
 
 ** przedimka nieokreślonego nigdy nie użyjemy z rzeczownikami niepoliczalnymi, czyli takimi, które nie mają liczby mnogiej
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       ccf37cb3-1ad0-4d67-b19e-93cb65847d7f
     :END:
 
     [_||the/a/an/_] money
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       c99210bf-05f5-4a22-9df6-c0433484f3ad
     :END:
 
     [_||the/a/an/_] cheese
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1fdee49f-169b-4fb2-afda-ad2c8b358cbf
     :END:
@@ -860,28 +860,28 @@
 
 ** przedimka nieokreślonego nigdy nie użyjemy przed nazwami własnymi
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       baf7f25c-c7ca-449d-a404-2993a8ac85c9
     :END:
 
     this is [_||the/a/an/_] jane
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       2db0f0f3-6d09-4fbb-80d8-52a5e613a1c8
     :END:
 
     this is [_||the/a/an/_] pixel
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       4bbb5219-bbf6-40d0-a5d4-3f15acda5b00
     :END:
 
     this is [_||the/a/an/_] marta
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       1066a36b-e18c-4a5c-9b7b-5ca78f5da480
     :END:
@@ -890,21 +890,21 @@
 
 ** przedimka nieokreślonego nigdy nie użyjemy przed nazwami posiłków
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       c5beeede-66ad-4fdd-82b6-e3cfbd35ca4a
     :END:
 
     i'm having [_||the/a/an/_] breakfast
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       975951b6-23ac-499d-b8a4-87173849a552
     :END:
 
     i'm having [_||the/a/an/_] diner
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       74009da9-517a-432b-8d6a-3f5be9154c0b
     :END:
@@ -913,21 +913,21 @@
 
 ** z określeniami częstotliwości, cen, prędkości
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       5fc5f88f-570b-4e6e-97e0-e91f08342a31
     :END:
 
     once [a||the/a/an/_] week
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       d0988a1f-67d3-40b6-8dad-21eaf4731320
     :END:
 
     two pounds [a||the/a/an/_] kilo
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       d9434681-d82e-4a98-abbd-602a6881e131
     :END:
@@ -936,7 +936,7 @@
 
 ** przed imionami własnymi w znaczeniu /podobny do/, często ironicznie
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       c21e0fcc-eccb-427a-b694-9097b7267510
     :END:
@@ -945,7 +945,7 @@
 
 ** przed imionami własnymi w odniesieniu do dzieł sztuki, zazwyczaj obrazów
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       95a889d6-f200-4c9a-abdd-4a104b79c271
     :END:
@@ -954,9 +954,548 @@
 
 ** przed imionami własnymi, w znaczeniu /jakiś/
 
-*** [2019-08-02 Fri]                                                                      :drill:
+*** przedimek                                                                      :drill:
     :PROPERTIES:
     :ID:       50cfa376-ca5d-45ac-ac06-fc6f9316c371
     :END:
 
     there is [_||the/a/an/_] mr smith on the phone to you
+** ćwiczenia
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] baltic
+
+*** przedimek                                                                      :drill:
+
+    [a||the/a/an/_] desk
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] moon
+
+*** przedimek                                                                      :drill:
+
+    [a||the/a/an/_] uniform
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] french
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] bahamas
+
+*** przedimek                                                                      :drill:
+
+    [an||the/a/an/_] heir
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] thames
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] united kingdom
+
+*** przedimek                                                                      :drill:
+
+    [a||the/a/an/_] window
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] alps
+
+*** przedimek                                                                      :drill:
+
+    [an||the/a/an/_] hour
+
+*** przedimek                                                                      :drill:
+
+    [a||the/a/an/_] country
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] west
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] kennedys
+
+*** przedimek                                                                      :drill:
+
+    [an||the/a/an/_] armchair
+
+*** przedimek                                                                      :drill:
+
+    [a||the/a/an/_] university
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] netherlands
+
+*** przedimek                                                                      :drill:
+
+    [an||the/a/an/_] orange
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] royal theatre
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] ukraine
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] best student in our class
+
+*** przedimek                                                                      :drill:
+
+    [a||the/a/an/_] kilo of oranges
+
+*** przedimek                                                                      :drill:
+
+    50 miles [an||the/a/an/_] hour
+
+*** przedimek                                                                      :drill:
+
+    once [a||the/a/an/_] week
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] only person i like
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] man i love
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] most expansive car
+
+*** przedimek                                                                      :drill:
+
+    [a||the/a/an/_] dozen apples
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] west of poland
+
+*** przedimek                                                                      :drill:
+
+    2 euros [a||the/a/an/_] kilo
+
+*** przedimek                                                                      :drill:
+
+    in [the||the/a/an/_] middle
+
+*** przedimek                                                                      :drill:
+
+    in [the||the/a/an/_] sky
+
+*** przedimek                                                                      :drill:
+
+    on [the||the/a/an/_] radio
+
+*** przedimek                                                                      :drill:
+
+    [a||the/a/an/_] thousand pounds
+
+*** przedimek                                                                      :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+
+    there is [a||the/a/an/_] pen on [the||the/a/an/_] desk. is it yours?
+
+*** przedimek                                                                      :drill:
+
+    paul is [the||the/a/an/_] best student at our school
+
+*** przedimek                                                                      :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+
+    [the||the/a/an/_] french don't like [the||the/a/an/_] english
+
+*** przedimek                                                                      :drill:
+
+    i've bought [a||the/a/an/_] beautiful new dress
+
+*** przedimek                                                                      :drill:
+
+    let's go to [the||the/a/an/_] cinema tonight
+
+*** przedimek                                                                      :drill:
+
+    we go swimming one [a||the/a/an/_] week
+
+*** przedimek                                                                      :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+
+    [an||the/a/an/_] eagle is [a||the/a/an/_] bird
+
+*** przedimek                                                                      :drill:
+
+    i always have coffe in [the||the/a/an/_] morning
+
+*** przedimek                                                                      :drill:
+
+    my brother is in [the||the/a/an/_] army
+
+*** przedimek                                                                      :drill:
+
+    let's buy [a||the/a/an/_] kilo of apples and make [an||the/a/an/_] apple pie
+
+*** przedimek                                                                      :drill:
+
+    who is [the||the/a/an/_] boy mark is talking to?
+
+*** przedimek                                                                      :drill:
+
+    jim is [the||the/a/an/_] only person here who speaks spanish
+
+*** przedimek                                                                      :drill:
+
+    look, i have [a||the/a/an/_] new bag!
+
+*** przedimek                                                                      :drill:
+
+    do you have to wear [a||the/a/an/_] uniform at school?
+
+*** przedimek                                                                      :drill:
+
+    he was driving to fast, about 100 kilometer [an||the/a/an/_] hour
+
+*** przedimek                                                                      :drill:
+
+    it was [the||the/a/an/_] worst day of my life
+
+*** przedimek                                                                      :drill:
+
+    is there [a||the/a/an/_] post office near hear?
+
+*** przedimek                                                                      :drill:
+
+    the peaches are 1 euro [a||the/a/an/_] kilo
+
+*** przedimek                                                                      :drill:
+
+    my sister is [a||the/a/an/_] nurse
+
+*** przedimek                                                                      :drill:
+
+    mark give me [an||the/a/an/_] expansive gift
+* brak przedimka
+
+** żadnego przedimka, /zero article/, nie użyjemy przed nazwami większości miast, państw, kontynentów, etc.
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] rome
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] mount blanc
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] new york
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] lake michigan
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] europe
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] asia
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] hague
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] ukraine
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] antarctic
+
+** przed imionami własnymi, oprócz wyjątkowych kontekstów, oraz przed tytułami
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] mr smith
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] president johnson
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] prince charles
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] capitan smith
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] doctor brown
+
+** przed nazwami ulic, mostów, budynków
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] oxford street
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] fifth avenue
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] buckingham palace
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] high street
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] strand
+
+** przed nazwami dni tygodnia, mięsięcy, pór roku, świąt
+
+*** przedimek                                                                      :drill:
+
+    on [_||the/a/an/_] saturday
+
+*** przedimek                                                                      :drill:
+
+    in [_||the/a/an/_] spring
+
+*** przedimek                                                                      :drill:
+
+    in [_||the/a/an/_] september
+
+*** przedimek                                                                      :drill:
+
+    for [_||the/a/an/_] easter
+
+** przed rzeczownikami oznaczającymi pojęcia abstrakcyjne, uczucia, etc
+
+*** przedimek                                                                      :drill:
+
+    all you need is [_||the/a/an/_] love
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] love i felt for him
+
+** przed nazwami dyscyplin sportowych
+
+*** przedimek                                                                      :drill:
+
+    i play [_||the/a/an/_] tenis
+
+*** przedimek                                                                      :drill:
+
+    he does [_||the/a/an/_] judo
+
+*** przedimek                                                                      :drill:
+
+    i love [_||the/a/an/_] physics
+
+** przed nazwami posiłków, chyba że są one poprzedone przymiotnikiem
+
+*** przedimek                                                                      :drill:
+
+    i had [_||the/a/an/_] breakfast at 8 o'clock
+
+*** przedimek                                                                      :drill:
+
+    i had [a||the/a/an/_] big breakfast this morning
+
+** przed rzeczownikami home, bed, work
+
+*** przedimek                                                                      :drill:
+
+    i return [_||the/a/an/_] home late
+
+*** przedimek                                                                      :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+
+    i am at [_||the/a/an/_] work at [the||the/a/an/_] moment, i'll call you back
+
+*** przedimek                                                                      :drill:
+
+    i was so tired last night, i went straight to [_||the/a/an/_] bed
+
+*** przedimek                                                                      :drill:
+
+    plase, put the suitcase on [the||the/a/an/_] bed
+
+** przed rzeczownikami takimi jak school, university, hospital, prison, church
+
+*** przedimek                                                                      :drill:
+
+    mark is in [_||the/a/an/_] hospital
+
+*** przedimek                                                                      :drill:
+
+    jane went to [the||the/a/an/_] hospital to visit mark
+
+*** przedimek                                                                      :drill:
+
+    i go to [_||the/a/an/_] church every sunday
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] tourist went to [the||the/a/an/_] church to admire its beautiful frescos
+
+** gdy wypowiadamy się ogólnie o jakiejś grupie ludzi lub przedmiotów
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] children like sweets
+
+*** przedimek                                                                      :drill:
+
+    tell [the||the/a/an/_] children to wash their hands
+
+*** przedimek                                                                      :drill:
+
+    i like to reads [_||the/a/an/_] books
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] books you recommended were really very interesting
+
+*** przedimek                                                                      :drill:
+
+    [_||the/a/an/_] vegetables are very healthy
+
+*** przedimek                                                                      :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+
+    i'm going to [the||the/a/an/_] garden, i need to water [the||the/a/an/_] vegetables
+
+** w wyrażeniach takich jak
+
+*** przedimek                                                                      :drill:
+
+    on [_||the/a/an/_] tv
+
+*** przedimek                                                                      :drill:
+
+    on [_||the/a/an/_] buisiness
+
+*** przedimek                                                                      :drill:
+
+    on [_||the/a/an/_] holiday
+
+*** przedimek                                                                      :drill:
+
+    all [_||the/a/an/_] night
+
+*** przedimek                                                                      :drill:
+
+    at [_||the/a/an/_] sea
+
+*** przedimek                                                                      :drill:
+
+    in [_||the/a/an/_] court
+
+*** przedimek                                                                      :drill:
+
+    at [_||the/a/an/_] night
+
+*** przedimek                                                                      :drill:
+
+    all [_||the/a/an/_] day
+
+** ćwiczenia
+
+*** przedimek                                                                      :drill:
+
+    did you like [the||the/a/an/_] book i gave you for your birthday?
+
+*** przedimek                                                                      :drill:
+
+    what's the name of [the||the/a/an/_] girl we met yesterday?
+
+*** przedimek                                                                      :drill:
+
+    they are building [a||the/a/an/_] new road next to my home
+
+*** przedimek                                                                      :drill:
+
+    excuse me, could you open [the||the/a/an/_] window, please?
+
+*** przedimek                                                                      :drill:
+
+    unfortunately, [the||the/a/an/_] bluse i bought last week was damaged and i
+    had to return it
+
+*** przedimek                                                                      :drill:
+
+    it was [an||the/a/an/_] extremaly moving film, it really made me cry
+
+*** przedimek                                                                      :drill:
+
+    [the||the/a/an/_] whale is one of the biggest mammals
+
+*** przedimek                                                                      :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+
+    my brother is [a||the/a/an/_] broker, he works in [a||the/a/an/_] bank
+
+*** przedimek                                                                             :drill:
+
+    you are [the||the/a/an/_] only person who has stood by me
+
+*** przedimek                                                                             :drill:
+
+    we had [a||the/a/an/_] big breakfast this morning because we're going to the
+    swimming pool
+
+*** przedimek                                                                             :drill:
+
+    i've heard on [the||the/a/an/_] radio there might be a thunder storm tonight
+
+*** przedimek                                                                             :drill:
+
+    now we live in [the||the/a/an/_] city center, but we used to live in
+    [the||the/a/an/_] countryside
+
+*** przedimek                                                                             :drill:
+    :PROPERTIES:
+    :DRILL_CARD_TYPE: hide1cloze
+    :END:
+
+    i bought [a||the/a/an/_] kilo of apples, some flour and [a||the/a/an/_]
+    dozen eggs at [the||the/a/an/_] shop you recommended
+
+*** przedimek                                                                             :drill:
+
+    mary spends hours talking on [the||the/a/an/_] phone
+* czasowniki
+** forma podstawowa - bezokolicznik
+*** czasownik                                                                             :drill:
+
+    to [write||write]
